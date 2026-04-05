@@ -1,0 +1,6 @@
+streamlit
+torch
+torchaudio
+transformers
+torchcodec
+librosa
